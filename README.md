@@ -12,7 +12,6 @@
 - 🌱 Atualmente estou aprendendo mais sobre **microsserviços**, **AWS**, **CI/CD** e **testes automatizados**.
 - 🤝 Aberto a oportunidades de **colaboração**, **estágio** ou **projetos open source** que envolvam inovação, aprendizado e impacto.
 - 📫 Contato: **lucase8499@gmail.com**
-- 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: Acredito que a tecnologia só faz sentido quando gera valor real para as pessoas.
 
 ---
