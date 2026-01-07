@@ -6,7 +6,7 @@
 
 ### 🚀 Sobre mim
 
-- 👨‍💻 Desenvolvedor em formação, com interesse em **backend (Java, Spring Boot, Node.js)** e **frontend (React, React Native, Angular)**.
+- 👨‍💻 Desenvolvedor em formação, com interesse em **backend (Java, Spring Boot, Node.js, NestJS)** e **frontend (React, React Native, Angular)**.
 - 📊 Também atuo com **levantamento de requisitos**, **criação de fluxogramas** e **modelagem de sistemas**, facilitando a ponte entre análise e desenvolvimento.
 - 🌱 Atualmente estou aprendendo mais sobre **microsserviços**, **AWS**, **CI/CD** e **testes automatizados**.
 - 🤝 Aberto a oportunidades de **colaboração**, **estágio** ou **projetos open source** que envolvam inovação, aprendizado e impacto.
