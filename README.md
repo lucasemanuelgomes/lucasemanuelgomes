@@ -1,19 +1,34 @@
-## 👋 Olá, eu sou o Lucas Emanuel!
+# 👋 Olá, eu sou o Lucas Emanuel!
 
-🎓 Sou estudante de **Sistemas de Informação** e apaixonado por tecnologia, desenvolvimento de software e por transformar ideias em soluções reais. Atualmente, venho me aprofundando no ecossistema de desenvolvimento **full stack**, com foco em boas práticas, arquitetura limpa e performance.
+💻 Desenvolvedor Full Stack e estudante de **Sistemas de Informação**, apaixonado por criar soluções escaláveis e transformar problemas em tecnologia.
 
----
-
-### 🚀 Sobre mim
-
-- 👨‍💻 Desenvolvedor em formação, com interesse em **backend (Java, Spring Boot, Node.js, NestJS)** e **frontend (React, React Native, Angular)**.
-- 📊 Também atuo com **levantamento de requisitos**, **criação de fluxogramas** e **modelagem de sistemas**, facilitando a ponte entre análise e desenvolvimento.
-- 🌱 Atualmente estou aprendendo mais sobre **microsserviços**, **AWS**, **CI/CD** e **testes automatizados**.
-- 🤝 Aberto a oportunidades de **colaboração**, **estágio** ou **projetos open source** que envolvam inovação, aprendizado e impacto.
-- 📫 Contato: **lucase8499@gmail.com**
-- ⚡ Curiosidade: Acredito que a tecnologia só faz sentido quando gera valor real para as pessoas.
+Atualmente atuo como **Desenvolvedor Full Stack no SENAI - Departamento Regional da Paraíba**, onde participo do desenvolvimento de aplicações completas, desde o levantamento de requisitos até a entrega em produção. Trabalho no desenvolvimento de interfaces modernas com **React** e **Next.js**, construção de APIs e microsserviços utilizando **Java, Spring Boot, Node.js e NestJS**, integração com **PostgreSQL**, utilização de **Docker**, pipelines de **CI/CD** e aplicação de boas práticas de engenharia de software. Também colaboro diretamente com equipes de Design, Frontend, Backend e Copywriting, participando de code reviews, refatorações e definição de soluções técnicas.
 
 ---
 
-🔗 **Vamos nos conectar!**  
-Se você gostou do que viu por aqui, não hesite em me chamar para trocar ideias, colaborar em projetos ou oportunidades de trabalho. Estou sempre aberto a conexões com pessoas apaixonadas por tecnologia e aprendizado.
+## 🚀 Sobre mim
+
+* 👨‍💻 Atualmente atuo como **Desenvolvedor Full Stack no SENAI - Departamento Regional da Paraíba**.
+* ⚙️ Desenvolvo aplicações utilizando **React, Next.js, TypeScript, Java, Spring Boot, Node.js, NestJS e PostgreSQL**.
+* 🏗️ Tenho experiência com desenvolvimento de **APIs REST**, microsserviços, modelagem de banco de dados, Docker, Prisma ORM e integração entre frontend e backend.
+* 📊 Também participo do **levantamento de requisitos**, elaboração de fluxogramas, modelagem de sistemas e definição de soluções junto às equipes de desenvolvimento.
+* 🔍 Atuo com **refatoração de código, code reviews, testes automatizados e documentação técnica**, sempre buscando aplicações escaláveis e de fácil manutenção.
+* 🌱 Atualmente estou aprofundando meus conhecimentos em **AWS**, **Kubernetes**, **arquitetura de microsserviços**, **CI/CD** e **Clean Architecture**.
+* 🤝 Estou sempre aberto a colaborar em projetos desafiadores, iniciativas open source e oportunidades que promovam aprendizado e inovação.
+* 📫 **Contato:** **[lucase8499@gmail.com](mailto:lucase8499@gmail.com)**
+
+---
+
+## 💡 Tecnologias
+
+**Frontend:** React • Next.js • TypeScript • JavaScript • Angular • React Native • HTML • CSS • SCSS
+
+**Backend:** Java • Spring Boot • Node.js • NestJS 
+
+**Banco de Dados:** PostgreSQL • MySQL • Prisma ORM
+
+**DevOps:** Docker • Git • GitHub • CI/CD
+
+---
+
+⭐ Acredito que tecnologia de qualidade vai além de escrever código: envolve entender o problema, colaborar com pessoas e construir soluções que gerem valor real.
