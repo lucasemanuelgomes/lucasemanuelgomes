@@ -1,12 +1,12 @@
-# 👋 Olá, eu sou o Lucas Emanuel!
+# Olá, eu sou o Lucas Emanuel!
 
-💻 Desenvolvedor Full Stack e estudante de **Sistemas de Informação**, apaixonado por criar soluções escaláveis e transformar problemas em tecnologia.
+Desenvolvedor Full Stack e estudante de **Sistemas de Informação**, apaixonado por criar soluções escaláveis e transformar problemas em tecnologia.
 
 Atualmente atuo como **Desenvolvedor Full Stack no SENAI - Departamento Regional da Paraíba**, onde participo do desenvolvimento de aplicações completas, desde o levantamento de requisitos até a entrega em produção. Trabalho no desenvolvimento de interfaces modernas com **React** e **Next.js**, construção de APIs e microsserviços utilizando **Java, Spring Boot, Node.js e NestJS**, integração com **PostgreSQL**, utilização de **Docker**, pipelines de **CI/CD** e aplicação de boas práticas de engenharia de software. Também colaboro diretamente com equipes de Design, Frontend, Backend e Copywriting, participando de code reviews, refatorações e definição de soluções técnicas.
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 * 👨‍💻 Atualmente atuo como **Desenvolvedor Full Stack no SENAI - Departamento Regional da Paraíba**.
 * ⚙️ Desenvolvo aplicações utilizando **React, Next.js, TypeScript, Java, Spring Boot, Node.js, NestJS e PostgreSQL**.
@@ -19,7 +19,7 @@ Atualmente atuo como **Desenvolvedor Full Stack no SENAI - Departamento Regional
 
 ---
 
-## 💡 Tecnologias
+## Tecnologias
 
 **Frontend:** React • Next.js • TypeScript • JavaScript • Angular • React Native • HTML • CSS • SCSS
 
@@ -31,4 +31,4 @@ Atualmente atuo como **Desenvolvedor Full Stack no SENAI - Departamento Regional
 
 ---
 
-⭐ Acredito que tecnologia de qualidade vai além de escrever código: envolve entender o problema, colaborar com pessoas e construir soluções que gerem valor real.
+Acredito que tecnologia de qualidade vai além de escrever código: envolve entender o problema, colaborar com pessoas e construir soluções que gerem valor real.
